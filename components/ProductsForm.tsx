@@ -2,7 +2,6 @@ import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { createProduct } from "../pages/api/productsAPI";
 
 export default function ProductsForm() {
-  
   const useClient = useQueryClient();
 
   const addProductMutation = useMutation({
@@ -39,6 +38,8 @@ export default function ProductsForm() {
               id="name"
               className="block w-full rounded-lg border border-gray-300 bg-gray-50 p-[5px] text-black focus:border-blue-500 focus:ring-blue-500"
               name="name"
+              required
+              autoComplete="off"
             />
           </div>
           <div className="mb-[10px] w-[200px]">
@@ -53,6 +54,8 @@ export default function ProductsForm() {
               id="description"
               className="block w-full rounded-lg border border-gray-300 bg-gray-50 p-[5px] text-black focus:border-blue-500 focus:ring-blue-500"
               name="description"
+              required
+              autoComplete="off"
             />
           </div>
           <div className="mb-[10px] w-[200px]">
@@ -67,6 +70,8 @@ export default function ProductsForm() {
               id="price"
               className="block w-full rounded-lg border border-gray-300 bg-gray-50 p-[5px] text-black focus:border-blue-500 focus:ring-blue-500"
               name="price"
+              required
+              autoComplete="off"
             />
           </div>
           <div className="mb-[30px] flex justify-center">

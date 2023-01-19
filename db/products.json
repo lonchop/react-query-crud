@@ -1,27 +1,6 @@
 {
   "products": [
     {
-      "id": "1",
-      "name": "laptop",
-      "description": "gaming laptop",
-      "price": 1000,
-      "inStock": true
-    },
-    {
-      "id": "2",
-      "name": "desktop",
-      "description": "gaming desktop",
-      "price": 1500,
-      "inStock": true
-    },
-    {
-      "id": "3",
-      "name": "tablet",
-      "description": "gaming tablet",
-      "price": 800,
-      "inStock": true
-    },
-    {
       "id": "4",
       "name": "monitor",
       "description": "gaming monitor",
@@ -71,11 +50,11 @@
       "inStock": true
     },
     {
-      "name": "new",
-      "description": "1",
-      "price": "200",
+      "name": "iphone",
+      "description": "iphone 14",
+      "price": "1500",
       "inStock": true,
-      "id": "r_Gh4Ou"
+      "id": "240QEIK"
     }
   ]
 }
