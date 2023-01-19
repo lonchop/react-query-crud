@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "laptop",
+      "description": "gaming laptop",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "name": "desktop",
+      "description": "gaming desktop",
+      "price": 1500,
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "name": "tablet",
+      "description": "gaming tablet",
+      "price": 800,
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "name": "monitor",
+      "description": "gaming monitor",
+      "price": 300,
+      "inStock": true
+    },
+    {
+      "id": "5",
+      "name": "keyboard",
+      "description": "gaming keyboard",
+      "price": 100,
+      "inStock": true
+    },
+    {
+      "id": "6",
+      "name": "mouse",
+      "description": "gaming mouse",
+      "price": 50,
+      "inStock": true
+    },
+    {
+      "id": "7",
+      "name": "headset",
+      "description": "gaming headset",
+      "price": 80,
+      "inStock": true
+    },
+    {
+      "id": "8",
+      "name": "speakers",
+      "description": "gaming speakers",
+      "price": 150,
+      "inStock": true
+    },
+    {
+      "id": "9",
+      "name": "mouse pad",
+      "description": "gaming mouse pad",
+      "price": 20,
+      "inStock": true
+    },
+    {
+      "id": "10",
+      "name": "keypad",
+      "description": "gaming keypad",
+      "price": 60,
+      "inStock": true
+    },
+    {
+      "name": "new",
+      "description": "1",
+      "price": "200",
+      "inStock": true,
+      "id": "r_Gh4Ou"
+    }
+  ]
+}
